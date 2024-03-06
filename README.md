@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋 I'm Gonçalo Guedes
 
-<!--
-**GoncaloGuedes/GoncaloGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Biomedical Engineer with a deep passion for data and machine learning algorithms. Here, I showcase my projects, experiments, and contributions to the world of data science.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 MSc in Biomedical Engineering
+- 💻 Data Enthusiast & Machine Learning Enthusiast
+- 🌟 Kaggle Competitor and Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+- 📊 Exploring datasets to uncover insights
+- 🤖 Building predictive models and algorithms
+- 📈 Participating in Kaggle competitions to test and enhance my skills
+
+## What I'm Working On
+- 🧠 Improving my understanding of deep learning techniques
+- 📝 Writing articles to share knowledge and insights
+- 🛠️ Exploring new tools and libraries in the data science ecosystem
+
+## Connect With Me
+- 📌 [Check out my portfolio](link) to see my latest projects and contributions!
+- 📧 Feel free to [reach out via email](mailto:goncalo.manuelguedes@gmail.com) for collaboration opportunities or just to say hello!
+
+## Let's Collaborate!
+If you're passionate about data science, machine learning, or just curious about what I'm up to, don't hesitate to reach out! Let's learn, grow, and innovate together!
+
