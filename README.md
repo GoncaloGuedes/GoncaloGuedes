@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Biomedical Engineer with a deep passion for 
 ## About Me
 - 🎓 MSc in Biomedical Engineering
 - 💻 Data Enthusiast & Machine Learning Enthusiast
-- 🌟 Kaggle Competitor and Enthusiast
+- 🌟 Kaggle Enthusiast
 
 ## My Interests
 - 📊 Exploring datasets to uncover insights
