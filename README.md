@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a Biomedical Engineer with a deep passion for 
 - 🛠️ Exploring new tools and libraries in the data science ecosystem
 
 ## Connect With Me
-- 📌 [Check out my portfolio](link) to see my latest projects and contributions!
 - 📧 Feel free to [reach out via email](mailto:goncalo.manuelguedes@gmail.com) for collaboration opportunities or just to say hello!
 
 ## Let's Collaborate!
