@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Gonçalo Guedes
 
-Welcome to my GitHub profile! I'm a Biomedical Engineer with a deep passion for data and machine learning algorithms. Here, I showcase my projects, experiments, and contributions to the world of data science.
+Welcome to my GitHub profile! I'm a Machine Learning Engineer with a deep passion for data and machine learning algorithms. Here, I showcase my projects, experiments, and contributions to the world of data science.
 
 ## About Me
+- 👨🏽‍💻 Machine Learning Engineer at Cork Supply Portugal
 - 🎓 MSc in Biomedical Engineering
 - 💻 Data Enthusiast & Machine Learning Enthusiast
 - 🌟 Kaggle Enthusiast
